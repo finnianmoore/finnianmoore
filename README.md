@@ -31,6 +31,7 @@ I hold multiple industry-recognized certifications and specialize in penetration
 - **[PNPT Penetration Test Report](https://github.com/finnianmoore/PNPT-Penetration-Test-Report)** – Full-scope internal penetration test resulting in Active Directory domain compromise.
 - **[PJPT Penetration Test Report](https://github.com/finnianmoore/PJPT-Penetration-Test-Report)** – Active Directory-focused penetration test demonstrating foundational ethical hacking and domain compromise skills.
 - **[Security Engineering Projects](https://github.com/finnianmoore/Security-Engineering-Projects)** – Technical work samples including SOC reports, Windows runbooks, and penetration test reports.
+- **[Security Automation Tools](https://github.com/finnianmoore/security-automation-tools)** – A curated collection of Python and Bash scripts for security automation, penetration testing, and credential assessment workflows.
 
 ---
 
