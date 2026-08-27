@@ -29,11 +29,11 @@ I hold multiple industry-recognized certifications and specialize in penetration
 
 | Certification | Issuer | Year | Verification |
 |---------------|--------|------|--------------|
-| **PNPT** – Practical Network Penetration Tester | TCM Security | 2026 | [View](./certificates/Finnian-Moore-PNPT-Certificate.pdf) |
-| **PJPT** – Practical Junior Penetration Tester | TCM Security | 2026 | [View](./certificates/Finnian-Moore-PJPT-Certificate.pdf) |
-| **Security+** | CompTIA | 2025 | [View](./certificates/Finnian-Moore-Security-Plus-Certificate.pdf) |
-| **PEH** – Practical Ethical Hacking | TCM Security | 2026 | [View](./certificates/Finnian-Moore-PEH-Certificate.pdf) |
-| **Cybersecurity Program** | Virginia Tech / Fullstack Academy | 2025 | [View](./certificates/Finnian-Moore-Virginia-Tech-Cybersecurity-Certificate.pdf) |
+| **PNPT** – Practical Network Penetration Tester | TCM Security | 2026 | [View](https://github.com/finnianmoore/Security-Engineering-Projects/blob/main/certificates/Finnian-Moore-PNPT-Certificate.pdf) |
+| **PJPT** – Practical Junior Penetration Tester | TCM Security | 2026 | [View](https://github.com/finnianmoore/Security-Engineering-Projects/blob/main/certificates/Finnian-Moore-PJPT-Certificate.pdf) |
+| **Security+** | CompTIA | 2025 | [View](https://github.com/finnianmoore/Security-Engineering-Projects/blob/main/certificates/Finnian-Moore-Security-Plus-Certificate.pdf) |
+| **PEH** – Practical Ethical Hacking | TCM Security | 2026 | [View](https://github.com/finnianmoore/Security-Engineering-Projects/blob/main/certificates/Finnian-Moore-PEH-Certificate.pdf) |
+| **Cybersecurity Program** | Virginia Tech / Fullstack Academy | 2025 | [View](https://github.com/finnianmoore/Security-Engineering-Projects/blob/main/certificates/Finnian-Moore-Virginia-Tech-Cybersecurity-Certificate.pdf) |
 
 ---
 
