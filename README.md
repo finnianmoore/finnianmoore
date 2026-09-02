@@ -1,10 +1,20 @@
 # 👋 Hello, I'm Finnian Moore
 
-## Cybersecurity Professional | Penetration Tester | IT Support Specialist
+## Cybersecurity Professional | Systems Administrator | Penetration Tester
 
-With over a decade of experience in high-stakes IT support and a background in global filmmaking, I bring a unique perspective to cybersecurity. I combine technical precision with exceptional communication skills, staying calm under pressure and adapting to any environment.
+With over a decade of experience in high-stakes IT infrastructure management and a background in global broadcast production, I bring a unique perspective to cybersecurity. I combine enterprise-level systems administration with hands-on offensive security training, staying calm under pressure and adapting to any environment.
 
 I hold multiple industry-recognized certifications and specialize in penetration testing, security operations, and vulnerability assessment.
+
+---
+
+## 💼 Professional Background
+
+**Technical Director & Systems Administrator** (Sky Network / Irish TV)
+
+- Architected and managed a **700TB enterprise data ecosystem**: a 300TB direct-attached RAID array for high-speed editing and a 400TB redundant NAS backup environment for secure archival.
+- Administered multiple **Synology NAS servers**, RAID configurations, network shares, and user access controls.
+- Acted as sole escalation point for storage outages and network failures; executed emergency recovery procedures ensuring zero downtime and zero data loss during live broadcast windows.
 
 ---
 
